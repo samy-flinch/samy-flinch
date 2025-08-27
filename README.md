@@ -1,12 +1,7 @@
 - 👋 Hi, I’m @samy-flinch
 - 👀 I’m interested in both web applications mobile applications ans a litle bit in AI modeling
 - 🌱 I’m currently learning C language and some HTML and CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on any tech related field 
+- 📫 How to reach me current phone number +254723069656
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<!---
-samy-flinch/samy-flinch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
